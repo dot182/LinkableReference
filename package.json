@@ -1,0 +1,15 @@
+{
+  "name": "com.dot182.linkablereference",
+  "version": "1.0.0",
+  "displayName": "Linkable Reference",
+  "description": "LinkableReference attribute for SerializeReference",
+  "author": {
+    "name": "dot182",
+    "url": "https://github.com/dot182"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dot182/LinkableReference.git"
+  },
+  "license": "MIT"
+}
